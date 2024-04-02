@@ -1,0 +1,277 @@
+{
+  "ratchet": [
+    {
+      "set_id": "BX-01",
+      "set_url": "https://beyblade.wiki/dran-sword/",
+      "code": "3-60",
+      "name": "Three-Sixty",
+      "url": "https://beyblade.wiki/3-60-ratchet/"
+    },
+    {
+      "set_id": "BX-02",
+      "set_url": "https://beyblade.wiki/hells-scythe/",
+      "code": "4-60",
+      "name": "Four-Sixty",
+      "url": "https://beyblade.wiki/4-60-ratchet/"
+    },
+    {
+      "set_id": "BX-03",
+      "set_url": "https://beyblade.wiki/wizard-arrow/",
+      "code": "4-80",
+      "name": "Four-Eighty",
+      "url": "https://beyblade.wiki/4-80-ratchet/"
+    },
+    {
+      "set_id": "BX-04",
+      "set_url": "https://beyblade.wiki/knight-shield/",
+      "code": "3-80",
+      "name": "Three-Eighty",
+      "url": "https://beyblade.wiki/3-80-ratchet/"
+    },
+    {
+      "set_id": "BX-15",
+      "set_url": "https://beyblade.wiki/leon-claw/",
+      "code": "5-60",
+      "name": "Five-Sixty",
+      "url": "https://beyblade.wiki/5-60-ratchet/"
+    },
+    {
+      "set_id": "BX-16",
+      "set_url": "https://beyblade.wiki/random-booster-viper-tail-select/",
+      "code": "5-80",
+      "name": "Five-Eighty",
+      "url": "https://beyblade.wiki/5-80-ratchet/"
+    },
+    {
+      "set_id": "BX-23",
+      "set_url": "https://beyblade.wiki/phoenix-wing/",
+      "code": "9-60",
+      "name": "Nine-Sixty",
+      "url": "https://beyblade.wiki/9-60-ratchet/"
+    },
+    {
+      "set_id": "BX-27",
+      "set_url": "https://beyblade.wiki/random-booster-sphynx-cowl/",
+      "code": "9-80",
+      "name": "Nine-Eighty",
+      "url": "https://beyblade.wiki/9-80-ratchet/"
+    }
+  ],
+  "blade": [
+    {
+      "set_id": "BX-00",
+      "set_url": "https://beyblade.wiki/dranzer-spiral/",
+      "name": "Dranzer Spiral",
+      "url": "https://beyblade.wiki/dranzer-spiral-blade/"
+    },
+    {
+      "set_id": "BX-00 ",
+      "set_url": "https://beyblade.wiki/cobalt-drake/",
+      "name": "Cobalt Drake",
+      "url": "https://beyblade.wiki/cobalt-drake-blade/"
+    },
+    {
+      "set_id": "BX-00",
+      "set_url": "https://beyblade.wiki/phoenix-feather-blade/",
+      "name": "Phoenix Feather",
+      "url": "https://beyblade.wiki/phoenix-feather-blade/"
+    },
+    {
+      "set_id": "BX-01",
+      "set_url": "https://beyblade.wiki/dran-sword/",
+      "name": "Dran Sword",
+      "url": "https://beyblade.wiki/dran-sword-blade/"
+    },
+    {
+      "set_id": "BX-02",
+      "set_url": "https://beyblade.wiki/hells-scythe/",
+      "name": "Hells Scythe",
+      "url": "https://beyblade.wiki/hells-scythe-blade/"
+    },
+    {
+      "set_id": "BX-03",
+      "set_url": "https://beyblade.wiki/wizard-arrow/",
+      "name": "Wizard Arrow",
+      "url": "https://beyblade.wiki/wizard-arrow-blade/"
+    },
+    {
+      "set_id": "BX-04",
+      "set_url": "https://beyblade.wiki/knight-shield/",
+      "name": "Knight Shield",
+      "url": "https://beyblade.wiki/knight-shield-blade/"
+    },
+    {
+      "set_id": "BX-13",
+      "set_url": "https://beyblade.wiki/knight-lance/",
+      "name": "Knight Lance",
+      "url": "https://beyblade.wiki/knight-lance-blade/"
+    },
+    {
+      "set_id": "BX-14",
+      "set_url": "https://beyblade.wiki/x-random-booster-vol-1/",
+      "name": "Shark Edge",
+      "url": "https://beyblade.wiki/shark-edge-blade/"
+    },
+    {
+      "set_id": "BX-15",
+      "set_url": "https://beyblade.wiki/leon-claw/",
+      "name": "Leon Claw",
+      "url": "https://beyblade.wiki/leon-claw-blade/"
+    },
+    {
+      "set_id": "BX-16",
+      "set_url": "https://beyblade.wiki/x-random-booster-vol-1/",
+      "name": "Viper Tail",
+      "url": "https://beyblade.wiki/viper-tail-blade/"
+    },
+    {
+      "set_id": "BX-19",
+      "set_url": "https://beyblade.wiki/rhino-horn/",
+      "name": "Rhino Horn",
+      "url": "https://beyblade.wiki/rhino-horn-blade/"
+    },
+    {
+      "set_id": "BX-20",
+      "set_url": "https://beyblade.wiki/dran-dagger-deck-set/",
+      "name": "Dran Dagger",
+      "url": "https://beyblade.wiki/dran-dagger-blade/"
+    },
+    {
+      "set_id": "BX-21 ",
+      "set_url": "https://beyblade.wiki/hells-chain-deck-set/",
+      "name": "Hells Chain",
+      "url": "https://beyblade.wiki/hells-chain-blade/"
+    },
+    {
+      "set_id": "BX-23",
+      "set_url": "https://beyblade.wiki/phoenix-wing/",
+      "name": "Phoenix Wing",
+      "url": "https://beyblade.wiki/phoenix-wing-blade/"
+    },
+    {
+      "set_id": "BX-24",
+      "set_url": "https://beyblade.wiki/x-random-booster-vol-2/",
+      "name": "Wyvern Gale",
+      "url": "https://beyblade.wiki/wyvern-gale-blade/"
+    },
+    {
+      "set_id": "BX-26",
+      "set_url": "https://beyblade.wiki/unicorn-sting/",
+      "name": "Unicorn Sting",
+      "url": "https://beyblade.wiki/unicorn-sting-blade/"
+    },
+    {
+      "set_id": "BX-27",
+      "set_url": "https://beyblade.wiki/random-booster-sphynx-cowl/",
+      "name": "Sphynx Cowl",
+      "url": "https://beyblade.wiki/sphynx-cowl-blade/"
+    }
+  ],
+  "bit": [
+    {
+      "set_id": "BX-01",
+      "set_url": "https://beyblade.wiki/dran-sword/",
+      "code": "F",
+      "name": "Flat",
+      "url": "https://beyblade.wiki/flat-bit/"
+    },
+    {
+      "set_id": "BX-02",
+      "set_url": "https://beyblade.wiki/hells-scythe/",
+      "code": "T",
+      "name": "Taper",
+      "url": "https://beyblade.wiki/taper-bit/"
+    },
+    {
+      "set_id": "BX-03",
+      "set_url": "https://beyblade.wiki/wizard-arrow/",
+      "code": "B",
+      "name": "Ball",
+      "url": "https://beyblade.wiki/ball-bit/"
+    },
+    {
+      "set_id": "BX-04",
+      "set_url": "https://beyblade.wiki/knight-shield/",
+      "code": "N",
+      "name": "Needle",
+      "url": "https://beyblade.wiki/needle-bit/"
+    },
+    {
+      "set_id": "BX-13",
+      "set_url": "https://beyblade.wiki/knight-lance/",
+      "code": "HN",
+      "name": "High Needle",
+      "url": "https://beyblade.wiki/high-needle-bit/"
+    },
+    {
+      "set_id": "BX-14",
+      "set_url": "https://beyblade.wiki/x-random-booster-vol-1/",
+      "code": "LF",
+      "name": "Low Flat",
+      "url": "https://beyblade.wiki/low-flat-bit/"
+    },
+    {
+      "set_id": "BX-15",
+      "set_url": "https://beyblade.wiki/leon-claw/",
+      "code": "P",
+      "name": "Point",
+      "url": "https://beyblade.wiki/point-bit/"
+    },
+    {
+      "set_id": "BX-16",
+      "set_url": "https://beyblade.wiki/random-booster-viper-tail-select/",
+      "code": "O",
+      "name": "Orb",
+      "url": "https://beyblade.wiki/orb-bit/"
+    },
+    {
+      "set_id": "BX-19",
+      "set_url": "https://beyblade.wiki/rhino-horn/",
+      "code": "S",
+      "name": "Spike",
+      "url": "https://beyblade.wiki/spike-bit/"
+    },
+    {
+      "set_id": "BX-20",
+      "set_url": "https://beyblade.wiki/dran-dagger-deck-set/",
+      "code": "R",
+      "name": "Rush",
+      "url": "https://beyblade.wiki/rush-bit/"
+    },
+    {
+      "set_id": "BX-21",
+      "set_url": "https://beyblade.wiki/hells-chain-deck-set/",
+      "code": "HT",
+      "name": "High Taper",
+      "url": "https://beyblade.wiki/high-taper-bit/"
+    },
+    {
+      "set_id": "BX-23",
+      "set_url": "https://beyblade.wiki/phoenix-wing/",
+      "code": "GF",
+      "name": "Gear Flat",
+      "url": "https://beyblade.wiki/gear-flat-bit/"
+    },
+    {
+      "set_id": "BX-24",
+      "set_url": "https://beyblade.wiki/x-random-booster-vol-2/",
+      "code": "GB",
+      "name": "Gear Ball",
+      "url": "https://beyblade.wiki/gear-ball-bit/"
+    },
+    {
+      "set_id": "BX-26",
+      "set_url": "https://beyblade.wiki/unicorn-sting/",
+      "code": "GP",
+      "name": "Gear Point",
+      "url": "https://beyblade.wiki/gear-point-bit/"
+    },
+    {
+      "set_id": "BX-27",
+      "set_url": "https://beyblade.wiki/random-booster-sphynx-cowl/",
+      "code": "GN",
+      "name": "Gear Needle",
+      "url": "https://beyblade.wiki/gear-needle-bit/"
+    }
+  ]
+}
